@@ -23,6 +23,8 @@
 
 ![django6_2](http://owrmua5nw.bkt.clouddn.com/django%E7%94%B5%E5%95%866%20%282%29.png)
 
+![django7](http://owrmua5nw.bkt.clouddn.com/django%E7%94%B5%E5%95%867.png)
+
 ![django8](http://owrmua5nw.bkt.clouddn.com/django%E7%94%B5%E5%95%868.png)
 
 ![django9](http://owrmua5nw.bkt.clouddn.com/django%E7%94%B5%E5%95%869.png)
