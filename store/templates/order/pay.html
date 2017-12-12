@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+订单编号：{{ order.oid }}
+订单金额：{{ order.ototal}}
+付款成功，3秒后自动跳转
+<script>
+    setTimeout('location.href="/user/user_center_order/";',3000);
+</script>
+</body>
+</html>
